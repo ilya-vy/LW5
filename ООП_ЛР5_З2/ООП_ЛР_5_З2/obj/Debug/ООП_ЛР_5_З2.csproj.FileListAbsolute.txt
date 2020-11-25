@@ -1,0 +1,11 @@
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\bin\Debug\ООП_ЛР_5_З2.exe.config
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\bin\Debug\ООП_ЛР_5_З2.exe
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\bin\Debug\ООП_ЛР_5_З2.pdb
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\obj\Debug\ООП_ЛР_5_З2.csprojAssemblyReference.cache
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\obj\Debug\ООП_ЛР_5_З2.Form1.resources
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\obj\Debug\ООП_ЛР_5_З2.Properties.Resources.resources
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\obj\Debug\ООП_ЛР_5_З2.csproj.GenerateResource.cache
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\obj\Debug\ООП_ЛР_5_З2.csproj.CoreCompileInputs.cache
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\obj\Debug\ООП_ЛР_5_З2.exe
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\obj\Debug\ООП_ЛР_5_З2.pdb
+C:\Users\JawJag\source\repos\ООП_ЛР_5_З2\ООП_ЛР_5_З2\obj\Debug\ООП_ЛР_5_З2.Form2.resources
